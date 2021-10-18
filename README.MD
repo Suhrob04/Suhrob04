@@ -1,10 +1,8 @@
 ### 👋 Hi there
 
-I'm a software engineer in <img src="https://www.flaticon.com/svg/static/icons/svg/323/323363.svg" width="13"/> China. Currently, I'm working for <img src="https://www.flaticon.com/svg/static/icons/svg/732/732221.svg" width="13"/> Microsoft, focusing on M365 infrastures. I enjoy coding for fun😋 and making toy projects🎈.
+I'm a software engineer in UZB. Currently, I'm studying in  Najot Talim, focusing on Flutter infrastures. I enjoy coding for fun� and making IOS and Android app.
 
 <h3>🔍 Where to find me</h3>
-<p><a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
 
 ### 🎮 Let's play Pokémon together~
 <img src="https://toy.aoaoao.me/image" width="300"/> 
@@ -20,11 +18,4 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 
 <details><summary>About this game section</summary>
   
-  The section is developed based on my previopus GameBoy emulator project [Gameboy.Live](https://github.com/HFO4/gameboy.live), you can use this project to deploy your own "cloud gaming server".
-</details>
-
-<details><summary>Statistics of this game so far</summary>
-  <img src="https://playground.aoaoao.me/Api/GBStatistic" />
-</details>
-
 -----
